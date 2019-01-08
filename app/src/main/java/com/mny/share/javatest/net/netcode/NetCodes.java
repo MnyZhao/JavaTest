@@ -5,8 +5,8 @@ import android.util.Log;
 import android.widget.Toast;
 
 import com.mny.share.javatest.net.model.SouceFactory;
-import com.mny.share.javatest.net.net_utils.conumer.ApiObserver;
-import com.mny.share.javatest.net.net_utils.conumer.ApiSubscriber;
+import com.mny.share.javatest.net.net_utils.consumer.ApiObserver;
+import com.mny.share.javatest.net.net_utils.consumer.ApiSubscriber;
 import com.mny.share.javatest.net.net_utils.exception.ApiException;
 import com.mny.share.javatest.study.StudyModel.StudyTranslate;
 

@@ -1,4 +1,4 @@
-package com.mny.share.javatest.net.net_utils.conumer;
+package com.mny.share.javatest.net.net_utils.consumer;
 
 
 import android.content.Context;
