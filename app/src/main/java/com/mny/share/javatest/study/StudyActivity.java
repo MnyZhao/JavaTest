@@ -7,6 +7,7 @@ import android.view.View;
 
 import com.blankj.utilcode.util.Utils;
 import com.mny.share.javatest.R;
+import com.mny.share.javatest.net.GitHubUserActivity;
 import com.mny.share.javatest.net.TranslateActivity;
 import com.mny.share.javatest.study.studycode.RxCreate;
 import com.mny.share.javatest.study.studycode.RxNet;
@@ -88,6 +89,10 @@ public class StudyActivity extends AppCompatActivity {
 
     public void zipTest(View v) {
         RxZipCode.getInstance().zipNetTest(this);
+    }
+
+    public void GetUser(View v) {
+        GitHubUserActivity.start(this);
     }
 
     @Override

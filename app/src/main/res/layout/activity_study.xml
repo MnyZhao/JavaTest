@@ -98,5 +98,10 @@
             android:layout_height="wrap_content"
             android:onClick="zipTest"
             android:text="Zip应用 同时请求多个接口成功后展示" />
+   <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="GetUser"
+            android:text="获取github用户信息" />
     </LinearLayout>
 </ScrollView>
