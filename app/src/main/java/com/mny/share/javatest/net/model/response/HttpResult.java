@@ -1,4 +1,4 @@
-package com.mny.share.javatest.net.net_utils.basereqmodel;
+package com.mny.share.javatest.net.model.response;
 
 /**
  * 网络请求基础类

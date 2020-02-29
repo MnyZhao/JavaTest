@@ -4,7 +4,7 @@ package com.mny.share.javatest.net.net_utils.convert;
 import com.google.gson.Gson;
 import com.google.gson.TypeAdapter;
 import com.google.gson.stream.JsonReader;
-import com.mny.share.javatest.net.net_utils.basereqmodel.HttpResult;
+import com.mny.share.javatest.net.model.response.HttpResult;
 import com.mny.share.javatest.net.net_utils.exception.ApiException;
 
 import java.io.ByteArrayInputStream;
